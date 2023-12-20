@@ -1,5 +1,5 @@
 /*
-MAGSHIMIM C2 MID-PROJECT ANTI_VIRUS
+PROJECT ANTI_VIRUS
 */
 
 #include <stdio.h>
